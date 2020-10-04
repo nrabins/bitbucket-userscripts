@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  Add templates to the bitbucket PR comment interface
 // @author       Nate Rabins
-// @downloadUrl  https://github.com/nrabins/bitbucket-userscripts/blob/main/PR%20Comment%20Templates/comment-templates.js
-// @updateUrl    https://github.com/nrabins/bitbucket-userscripts/blob/main/PR%20Comment%20Templates/comment-templates.js
+// @downloadURL  https://raw.githubusercontent.com/nrabins/bitbucket-userscripts/main/PR%20Comment%20Templates/comment-templates.js
+// @updateURL    https://raw.githubusercontent.com/nrabins/bitbucket-userscripts/main/PR%20Comment%20Templates/comment-templates.js
 // @match        */projects/*/repos/*/pull-requests/*
 // @grant        none
 // ==/UserScript==
